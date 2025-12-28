@@ -16,7 +16,7 @@ TechLeads.fyi helps sales, marketing, and product teams:
 ✅ Monitor technology adoption trends  
 ✅ Export technology datasets globally  
 
-We track **1000+ technologies** across **450M+ websites** with same accuracy as BuiltWith & Wappalyzer — but at **60-70% lower cost**.
+We track **7000+ technologies** across **450M+ websites** with same accuracy as BuiltWith & Wappalyzer — but at **60-70% lower cost**.
 
 ---
 
